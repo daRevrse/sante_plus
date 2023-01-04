@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617818469178",
+    "project_id": "sos-doc-64909",
+    "storage_bucket": "sos-doc-64909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617818469178:android:31d4b93046cdf719dc1603",
+        "android_client_info": {
+          "package_name": "com.example.sante_plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617818469178-d4n8ulovkfrdnrm0798n1ljae56nvt3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVKFIBkZnX9ynNazMMOiBwB9VKHhBqk2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617818469178-d4n8ulovkfrdnrm0798n1ljae56nvt3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
